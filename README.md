@@ -1,2 +1,7 @@
-# my-first-reep
+
 第一个github
+# 我的第一个仓库
+这是我学习 GitHub 创建的第一个项目仓库✨
+
+- 学习怎么新建仓库
+- 学习编辑 README
